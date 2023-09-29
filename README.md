@@ -2,7 +2,7 @@
 # <p align="center">Hidden Markov Model</p>
 
 ## Aim:
- Construct a Python code to find the sequence of hidden states by the known sequence of obsevances using Hidden Markov Model. Consider two hidden states Sunny and Rainy with observable states,happy and sad. 
+Construct a Python code to find the sequence of hidden states by the known sequence of obsevances using Hidden Markov Model. Consider two hidden states Sunny and Rainy with observable states,happy and sad. 
 ## Algorithm:
 #### Step 1:
 Define the transition matrix, which specifies the probability of transitioning from one hidden state to another.</br>
@@ -60,4 +60,4 @@ print("The most likely sequence of weather states is:",most_likely_sequence)
 
 ## Result:
 
-Thus, the Hidden Markov Model to identify the sequence of Hidden states  is executed successfully 
+Thus, the Hidden Markov Model to identify the sequence of Hidden states  is executed successfully.
